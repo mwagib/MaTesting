@@ -1,1 +1,3 @@
 test file for learing github 
+commit only (commit changes to local folder only)-not remote folder
+publish commit changes on the remote folder first time
